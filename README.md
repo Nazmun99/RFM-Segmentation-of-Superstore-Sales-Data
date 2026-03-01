@@ -7,3 +7,5 @@ This project is an analytical project for Superstore Sales Data whereas the proj
 - 'data_cleaning_eda.sql': Data Check
 - rfm segmentation.sql: Find Recency, Frequency and Monetary metrics for customers
 
+Note: Database Management system is MYSQL. Data was imported using Data Import Wizard tool.
+
