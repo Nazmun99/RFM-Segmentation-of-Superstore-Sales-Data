@@ -4,7 +4,7 @@ This project is an analytical project for Superstore Sales Data whereas the proj
 # Problem Statement
 Usually, Retail business companies want to segment the customers for improving their business through updating business and marketing strategies. We have categorize customers into loyal, potential or at high-risk based on their number of purchases, latest purchase date, total amount they spend.
 
-# Findings
+# Findings/Results
 - Categorize customers into loyal/potential/at high-risk through the process of Recency, Frequency and monetary values
 - Help Companies to optimize their business strategies according to customer segementation and focus on high-valued customers
 # Files:
