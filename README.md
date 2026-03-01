@@ -4,6 +4,6 @@ This project is an analytical project for Superstore Sales Data whereas the proj
 # Files:
 - SuperstoreSales_Data.csv: The raw sales data file.
 - Create_database.sql: This SQL scripts will create the database and tables.
--'data_cleaning_eda.sql': Data Check
+- 'data_cleaning_eda.sql': Data Check
 - rfm segmentation.sql: Find Recency, Frequency and Monetary metrics for customers
 
