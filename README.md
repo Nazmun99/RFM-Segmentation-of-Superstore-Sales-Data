@@ -27,4 +27,12 @@ The dataset Contains the following key fields:
 # Learnings
 - Data cleaning, transformation and EDA through SQL Queries
 - Implementation of advanced SQL features like:aggregation function, DATEDIFF, CASE.
+- What is RFM (Recency, Frequency, Monetary) Segmentation and why it is performed?
+- Segmenting Customers using RFM Segmentation
+- Common Table Expression (CTEs)
+- VIEW in Database
+- Difference between VIEW and Table; Advantages of VIEW
+- DATEDIFF
+- SUBQUERY
+- CONCAT
 
